@@ -1,0 +1,22 @@
+{
+  "name": "THAFont",
+  "version": "0.1.0",
+  "summary": "A short description of THAFont.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1025124154@qq.com/THAFont",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1025124154@qq.com": "shiliming@jd.com"
+  },
+  "source": {
+    "git": "https://github.com/1025124154@qq.com/THAFont.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "THAFont/Classes/**/*"
+}

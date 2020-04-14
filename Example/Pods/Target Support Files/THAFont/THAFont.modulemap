@@ -1,0 +1,6 @@
+framework module THAFont {
+  umbrella header "THAFont-umbrella.h"
+
+  export *
+  module * { export * }
+}
