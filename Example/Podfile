@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'THAFont_Example' do
+  pod 'THAFont', :path => '../'
+
+  target 'THAFont_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
